@@ -6,6 +6,8 @@ import time
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib import use
+use('Qt5Agg')
 
 
 class FullProf:
